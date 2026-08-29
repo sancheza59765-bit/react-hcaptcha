@@ -14,7 +14,7 @@ Sign up at [hCaptcha](https://www.hcaptcha.com) to get your sitekey today. **You
 3. [Debugging](#debugging)
 4. [Contributing](#contributing)
 
-## Installation
+## Installation 
 
 You can install this library via npm with:
 
